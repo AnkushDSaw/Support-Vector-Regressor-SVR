@@ -1,9 +1,7 @@
 # Support-Vector-Regressor-SVR
 Support Vector Regressor SVR with two code .1, Basic and 2. Advance
 
-# Support Vector Reressor SVR
 
-# Support Vector Reressor SVR
 # Importing the libraries
 import numpy as np
 import matplotlib.pyplot as plt
